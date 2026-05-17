@@ -22,4 +22,5 @@ USB‑C cable
 
 Arduino IDE or PlatformIO
 
-<img width="240" height="320" alt="mass storage" src="https://github.com/user-attachments/assets/82ce05a0-08c6-48ee-b52e-b79d86a2fea2" />
+
+<img width="480" height="540" alt="mass storage new" src="https://github.com/user-attachments/assets/09890758-20a2-4672-9587-b55e4235aa33" />

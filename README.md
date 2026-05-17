@@ -11,8 +11,7 @@ Display a list of files on the Cardputer’s screen.
 File transfer support  
 Transfer files between your computer and the SD card through USB Mass Storage mode.
 
-Display small images  
-Show low‑resolution images stored on the SD card using the Cardputer’s screen.
+‼️Small-sized images can be uploaded.‼️
 
 📦 Requirements
 M5Stack Cardputer
